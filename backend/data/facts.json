@@ -1,0 +1,22 @@
+{
+  "full_name": "Maksym Dombrov",
+  "name": "Penguin",
+  "current_role": "AI Engineer",
+  "location": "Odessa, Ukraine",
+  "email": "maksymdombrov@gmail.com",
+  "linkedin": "linkedin.com/in/maksymdombrov",
+  "specialties": [
+    "Quality Assurance",
+    "Embedded Systems",
+    "AI",
+    "Machine Learning"
+  ],
+  "years_experience": 7,
+  "education": [
+    {
+      "degree": "Bachelor of Psychology",
+      "institution": "Odessa National University",
+      "year": "2024"
+    }
+  ]
+}
